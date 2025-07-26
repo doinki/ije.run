@@ -1,0 +1,7 @@
+{
+  "plugins": ["prettier-plugin-tailwindcss"],
+  "printWidth": 120,
+  "singleQuote": true,
+  "tailwindFunctions": ["cn", "cva", "cx", "twJoin", "twMerge"],
+  "tailwindStylesheet": "./app/tailwind.css"
+}
